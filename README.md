@@ -1,10 +1,10 @@
-#gilded-rose
+# gilded-rose
 
-https://travis-ci.org/neitge/gilded_DAN.svg?branch=master
+[![Build Status](https://travis-ci.org/neitge/gilded_DAN.svg?branch=master)](https://travis-ci.org/neitge/gilded_DAN)
 
 
 
-Project Team : 
+## Project Team : 
 
     .CHETTO Reda
-    .DANIERE Clément
+    .DANIERE Clément 
