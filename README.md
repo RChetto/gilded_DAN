@@ -6,11 +6,5 @@
 
 ## Project Team : 
 
-    .CHETTO Reda
-    .DANIERE Clément 
-    
-    
-    
-    
-    
-    sss
+    .CHETTO Rida
+    .DANIERE Clément
